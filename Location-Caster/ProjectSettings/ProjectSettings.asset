@@ -256,7 +256,7 @@ PlayerSettings:
   AndroidKeyaliasName: 
   AndroidBuildApkPerCpuArchitecture: 1
   AndroidTVCompatibility: 1
-  AndroidIsGame: 0
+  AndroidIsGame: 1
   AndroidEnableTango: 0
   androidEnableBanner: 1
   androidUseLowAccuracyLocation: 0
